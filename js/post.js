@@ -22,4 +22,4 @@ sectionP.appendChild(article)
 
    })
  
-    
+   
